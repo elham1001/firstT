@@ -1,3 +1,6 @@
 #include <iostream>
 
-int main() { std::cout << "Hello World!\n"; }
+using namespace std;
+int main() { 
+  cout << "Hello World!\n"; 
+}
